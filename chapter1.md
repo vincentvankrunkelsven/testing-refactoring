@@ -1,10 +1,10 @@
 ---
 title       : A chapter
 description : Insert the chapter description here
-attachments :
+attachments :s
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
---- type:fdsa lang:r xp:100 skills:1 key:023bc3ac45
+--- type:NormalExercise lang:r xp:100 skills:1 key:023bc3ac45
 ## More movies
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
