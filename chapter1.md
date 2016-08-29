@@ -4,7 +4,7 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
---- type:NfdsormalExercise lang:r xp:100 skills:1 key:023bc3ac45
+--- type:MultipleChoiceExercise lang:r xp:100 skills:1 key:023bc3ac45
 ## More movies
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
@@ -12,6 +12,7 @@ In the previous exercise, you saw a dataset about movies. In this exercise, we'l
 A dataset with a selection of movies, `movie_selection`, is available in the workspace.
 
 *** =instructions
+fds
 - Check out the structure of `movie_selection`.
 - Select movies with a rating of 5 or higher. Assign the result to `good_movies`.
 - Use `plot()` to  plot `good_movies$Run` on the x-axis, `good_movies$Rating` on the y-axis and set `col` to `good_movies$Genre`.
