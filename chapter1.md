@@ -22,7 +22,7 @@ A dataset with a selection of movies, `movie_selection`, is available in the wor
 - For the plot, use `plot(x = ..., y = ..., col = ...)`.
 
 *** =pre_exercise_code
-``
+```{r}
 # You can also prepare your dataset in a specific way in the pre exercise code
 
 library(MindOnStats)
