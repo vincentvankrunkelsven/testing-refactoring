@@ -34,6 +34,7 @@ rm(Movies)
 ```
 
 *** =sample_code
+```{r}
 # movie_selection is available in your workspace
 
 # Check out the structure of movie_selection
@@ -153,4 +154,4 @@ test_function("plot", args = "col")
 test_error()
 
 success_msg("Good work!")
-```
+
