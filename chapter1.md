@@ -80,7 +80,7 @@ test_error()
 success_msg("Good work!")
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:73c05fecae
+--- type:NormalExercise lang:r xp:100 skills:1 key:023bc3ac45
 ## More movies b
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
