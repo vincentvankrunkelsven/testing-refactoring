@@ -69,6 +69,9 @@ test_function("str", args = "object",
               not_called_msg = "You didn't call `str()`!",
               incorrect_msg = "You didn't call `str(object = ...)` with the correct argument, `object`.")
 
+
+test_bject("not_here") 
+
 test_object("good_movies")
 
 test_function("plot", args = "x")
