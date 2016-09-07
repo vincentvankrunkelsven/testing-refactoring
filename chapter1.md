@@ -5,7 +5,7 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:023bc3ac45
-## More movies
+## More moviesa
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
 
@@ -70,7 +70,7 @@ test_function("str", args = "object",
               incorrect_msg = "You didn't call `str(object = ...)` with the correct argument, `object`.")
 
 
-test_bject("not_here") 
+test_bject("not_here")
 
 test_object("good_movies")
 
