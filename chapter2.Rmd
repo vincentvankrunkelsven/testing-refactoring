@@ -15,7 +15,7 @@ A dataset with a selection of movies, `movie_selection`, is available in the wor
 - Check out the structure of `movie_selection`.
 - Select movies with a rating of 5 or higher. Assign the result to `good_movies`.
 - Use `plot()` to  plot `good_movies$Run` on the x-axis, `good_movies$Rating` on the y-axis and set `col` to `good_movies$Genre`.
-
+two
 *** =hint
 - Added this hint
 - Use `str()` for the first instruction.
