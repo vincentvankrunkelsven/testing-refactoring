@@ -9,6 +9,8 @@ attachments :
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
 
+a
+
 A dataset with a selection of movies, `movie_selection`, is available in the workspace.
 
 *** =instructions
